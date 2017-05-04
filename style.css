@@ -1,0 +1,52 @@
+#navigation {list-style-type: none;
+  margin : 0;
+  padding: 0;
+}
+
+#lastLI {padding-bottom: 30px; }
+
+.menuBar ul{background-color: gray;}
+.menuBar a{color:white; display: block; padding: 5px;
+text-decoration: none;}
+.menuBar a:hover {background-color: #333333; text-decoration:none;
+color: white;}
+.menuBar > ul {display:table; width:100%; }
+.menuBar > ul > li {display: table-cell; border-right: 1px solid #d4d4d4;}
+.menuBar > ul > li > a{text-align: center;}
+
+
+nav ul li {float: left;
+margin-right: 0.5em; }
+
+#firstH1 {padding-top: 40px;}
+#contactH1{padding-top: 40px;}
+
+p {font-family: sans-serif; text-align:center;}
+
+h1 {font-family: sans-serif; text-align: center;}
+
+body {background-color:#4D8453;}
+
+#Reg-image {display:block; margin-left: auto;
+margin-right: auto;}
+
+.bottomNav ul{background-color: gray; list-style-type: none;
+  margin : 0;
+  padding: 0;}
+.bottomNav a{color:white; display: block; padding: 5px;
+text-decoration: none;}
+.bottomNav a:hover {background-color: #333333; text-decoration:none;
+color: white;}
+.bottomNav > ul {display:table; width:100%; }
+.bottomNav > ul > li {display: table-cell; border-right: 1px solid #d4d4d4;}
+.bottomNav > ul > li > a{text-align: center;}
+
+.boxed {background-color: gray; border: 5px solid black;
+  margin: auto;width: 50%; padding-bottom: 15px; margin-bottom: 30px;
+}
+
+#buttons {margin: auto; width: 50%; }
+
+#EmailDiv {margin-top: 50px;}
+
+.footer {position:absolute;   }
